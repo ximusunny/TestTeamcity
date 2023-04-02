@@ -10,6 +10,7 @@ public class MavenDemoApplication {
 		SpringApplication.run(MavenDemoApplication.class, args);
 		System.out.println("第一次变更");
 		System.out.println("2222222");
+		System.out.println("2222223");
 	}
 
 }
