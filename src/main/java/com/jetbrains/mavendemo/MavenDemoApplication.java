@@ -11,6 +11,7 @@ public class MavenDemoApplication {
 		System.out.println("第一次变更");
 		System.out.println("2222222");
 		System.out.println("2222223");
+		System.out.println("开发分支建立");
 	}
 
 }
